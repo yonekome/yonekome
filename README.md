@@ -1,5 +1,7 @@
 # Hi, I'm yonekome 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=repo+sync...;lunch+infinity_nabu-userdebug;m+bacon;Building+Android+from+source)](https://git.io/typing-svg)
+
 ![snake gif](https://github.com/yonekome/yonekome/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## ⚡ About Me
@@ -50,15 +52,6 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yonekome&show_icons=true&theme=tokyonight)
 
----
-
-## 🔥 Current Focus
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=repo+sync...;lunch+rising_nabu-userdebug;m+bacon;Building+Android+from+source)](https://git.io/typing-svg)
-
-
 ![](https://komarev.com/ghpvc/?username=yonekome&color=blueviolet&style=for-the-badge)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-</p>
+---
