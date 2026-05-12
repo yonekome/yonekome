@@ -1,19 +1,5 @@
 # Hi, I'm yonekome 👋
 
-```text
-Building Android from source, breaking things,
-fixing them again.
-```
-
-```bash
-$ whoami
-yone
-
-$ lunch rising_nabu-userdebug
-
-$ m bacon
-```
-
 ## ⚡ About Me
 
 - 📱 Custom ROM Builder
@@ -43,10 +29,9 @@ $ m bacon
 ## 🔨 ROM Projects
 
 - Project Infinity X
-- AOSP-based ROMs
+- Rising OS Revived
 - Kernel experiments
 - SELinux policy debugging
-- Soong / Kati troubleshooting
 
 ---
 
@@ -61,9 +46,9 @@ $ m bacon
 
 ## 📊 Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yonekome&show_icons=true&theme=tokyonight)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonekome&layout=compact&theme=tokyonight)
 
 ---
 
