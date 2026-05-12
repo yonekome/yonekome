@@ -59,7 +59,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonekome&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonekome&theme=tokyonight&utcOffset=9)
 
-## Trophy
+## 🏆️ Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=yonekome&theme=tokyonight)
 
 ---
