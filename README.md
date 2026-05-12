@@ -33,7 +33,6 @@
 ## 🔨 ROM Projects
 
 - Project Infinity X
-- Rising OS Revived
 - Kernel experiments
 - SELinux policy debugging
 
