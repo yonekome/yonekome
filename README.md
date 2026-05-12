@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm yonekome 👋
 
-<!--
-**yonekome/yonekome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+Building Android from source, breaking things,
+fixing them again.
+```
 
-Here are some ideas to get you started:
+## ⚡ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Custom ROM Builder
+- 🐧 Ubuntu / Linux Server User
+- 🔧 Android low-level enthusiast
+- 🌱 Learning kernel, SELinux, and Android internals
+- 💻 Building for Xiaomi nabu
+
+---
+
+## 🛠 Environment
+
+- Ubuntu Server
+- Ryzen 7 5800H
+- 64GB Swap + zram
+- Portable SSD Build Environment
+- SSH / tmux workflow
+
+---
+
+## 📱 Devices
+
+- Xiaomi Mi Pad 5 (nabu)
+
+---
+
+## 🔨 ROM Projects
+
+- Rising Revived OS
+- AOSP-based ROMs
+- Kernel experiments
+- SELinux policy debugging
+- Soong / Kati troubleshooting
+
+---
+
+## ⚙️ Tech Stack
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Current Focus
+
+```text
+make bacon
+FAILED: out/soong/build.ninja
+```
+
