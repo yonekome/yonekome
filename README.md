@@ -8,20 +8,20 @@ fixing them again.
 ## ⚡ About Me
 
 - 📱 Custom ROM Builder
-- 🐧 Ubuntu / Linux Server User
+- 🐧 Ubuntu Server User
 - 🔧 Android low-level enthusiast
 - 🌱 Learning kernel, SELinux, and Android internals
-- 💻 Building for Xiaomi nabu
+- 💻 Building for Xiaomi Pad 5(nabu)
 
 ---
 
 ## 🛠 Environment
 
-- Ubuntu Server
+- Ubuntu Server 24.04
 - Ryzen 7 5800H
-- 64GB Swap + zram
-- Portable SSD Build Environment
-- SSH / tmux workflow
+- 16GB DDR4-3200
+- 47GB Swap + zram
+- my patience
 
 ---
 
@@ -33,7 +33,7 @@ fixing them again.
 
 ## 🔨 ROM Projects
 
-- Rising Revived OS
+- Project Infinity X
 - AOSP-based ROMs
 - Kernel experiments
 - SELinux policy debugging
