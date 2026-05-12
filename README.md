@@ -5,6 +5,15 @@ Building Android from source, breaking things,
 fixing them again.
 ```
 
+```bash
+$ whoami
+yone
+
+$ lunch rising_nabu-userdebug
+
+$ m bacon
+```
+
 ## ⚡ About Me
 
 - 📱 Custom ROM Builder
