@@ -56,8 +56,6 @@
 ![](https://komarev.com/ghpvc/?username=yonekome&color=blueviolet&style=for-the-badge)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonekome&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yonekome&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonekome&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonekome&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonekome&theme=tokyonight&utcOffset=9)
 
