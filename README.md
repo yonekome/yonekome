@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=repo+sync...;lunch+infinity_nabu-userdebug;m+bacon;Building+Android+from+source)](https://git.io/typing-svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yonekome/yonekome/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yonekome/yonekome/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yonekome/yonekome/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## ⚡ About Me
 
 - 📱 Custom ROM Builder
@@ -53,8 +47,21 @@
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yonekome&show_icons=true&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yonekome/yonekome/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yonekome/yonekome/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yonekome/yonekome/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![](https://komarev.com/ghpvc/?username=yonekome&color=blueviolet&style=for-the-badge)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonekome&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yonekome&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonekome&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonekome&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonekome&theme=tokyonight&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=yonekome&theme=tokyonight)
 
 ---
