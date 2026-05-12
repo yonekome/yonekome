@@ -23,7 +23,7 @@
 - Ubuntu Server 24.04
 - Ryzen 7 5800H
 - 16GB DDR4-3200
-- 47GB Swap + zram
+- 48GB Swap + zram
 - my patience
 
 ---
