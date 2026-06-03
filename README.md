@@ -7,8 +7,8 @@
 - 📱 Custom ROM Builder
 - 🐧 Ubuntu Server User
 - 🔧 Android low-level enthusiast
-- 🌱 Learning kernel, SELinux, and Android internals
-- 💻 Building for Xiaomi Pad 5(nabu)
+- 🌱 Learning kernel and Android internals
+- 💻 Building for Xiaomi Pad 5(nabu) now
 
 ---
 
@@ -17,7 +17,7 @@
 - Ubuntu Server 24.04
 - Ryzen 7 5800H
 - 16GB DDR4-3200
-- 48GB Swap + zram
+- 32GB Swap + 16GB zram
 - my patience
 
 ---
@@ -26,13 +26,15 @@
 
 - Xiaomi Mi Pad 5 (nabu)
 
+- Xiaomi Mi Mix 2S (polaris)
 ---
 
 ## 🔨 ROM Projects
 
 - Project Infinity X
-- Kernel experiments
-- SELinux policy debugging
+
+- Pixel Experience
+- Project Elixir
 
 ---
 
