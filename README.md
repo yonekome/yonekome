@@ -1,14 +1,13 @@
 # Hi, I'm yonekome 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=repo+sync...;lunch+infinity_nabu-userdebug;m+bacon;Building+Android+from+source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=repo+sync...;lunch+infinity_nabu-userdebug;m+bacon;Building+Android+from+source...)](https://git.io/typing-svg)
 
 ## ⚡ About Me
 
 - 📱 Custom ROM Builder
-- 🐧 Ubuntu Server User
 - 🔧 Android low-level enthusiast
 - 🌱 Learning kernel and Android internals
-- 💻 Building for Xiaomi Pad 5(nabu) now
+- 💻 Building for Xiaomi Pad 5
 
 ---
 
